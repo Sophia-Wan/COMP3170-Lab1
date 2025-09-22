@@ -1,0 +1,31 @@
+.title {
+    background-color: rgb(220, 202, 219);
+    padding: 30px;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.line {
+    background-color: black;
+    padding: 2px;
+    margin-top: -21px;
+    margin-bottom: 50px;
+}
+
+.books {
+    display: flex;
+    gap: 30px;
+}
+.footer {
+    text-align: center;
+    background-color: rgb(220, 202, 219);
+    padding: 20px;
+    margin-top: auto;
+}
+
+.bookList {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}

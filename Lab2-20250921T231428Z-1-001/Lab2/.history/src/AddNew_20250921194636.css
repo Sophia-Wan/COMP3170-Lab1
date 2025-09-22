@@ -1,0 +1,18 @@
+.new {
+    border: 5px solid rgb(220, 202, 219);
+    border-radius: 15px;
+    color: rgb(220, 202, 219);
+    margin-left: 1em;
+    text-align: center;
+    padding: 60px;
+    width: 200px;
+    height: 300px;
+}
+.new:hover {
+    background-color: rgb(220, 202, 219);
+    cursor: pointer;
+    color: white;
+}
+.words {
+    font-size: 30px;
+}
